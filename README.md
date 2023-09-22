@@ -1,5 +1,5 @@
 # C++ Object-Oriented Programming
-![](other\hello-there-obi-wan.gif?raw=true)
+![](other/hello-there-obi-wan.gif?raw=true)
 
 This repository contains all of the C++ programs pertaining to the **Object-Oriented Programming** series, developed during my undergraduate studies. Each folder contains a `README.md` that briefly overviews the concept that was studied, whereas each subfolder contains either a lab or a PROGRAM that includes a `README.md` with documentation and descriptions that demonstrate these principles in action.
 
@@ -38,4 +38,4 @@ This repository contains all of the C++ programs pertaining to the **Object-Orie
 
 ### PROGRAM 5 Sample:
 
-![alt text](other\PROGRAM-5-output.jpg)
+![alt text](other/PROGRAM-5-output.jpg)
