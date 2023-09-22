@@ -1,7 +1,7 @@
 # C++ Object-Oriented Programming
 **Helloo!**
 
-This repository contains all of the C++ programs developed during my undergraduate C++ Programming Principles series (Jan - Apr 2021). Each folder contains a README.md briefly describing either the concept, the lab, or the program being displayed.
+This repository contains all of the C++ programs developed during my undergraduate **C++ Programming Principles** series (Jan - Apr 2021). Each folder contains a README.md briefly describing either the concept, the lab, or the program being displayed.
 
 ## List of PROGRAMS:
 1. [Wind Tunnel Data Interpolator Tool](3.%20Classes%20I%20%2B%20PROGRAM%201/PROGRAM%201%20files)
