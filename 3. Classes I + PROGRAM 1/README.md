@@ -41,23 +41,24 @@ Classes in C++ are a fundamental concept in object-oriented programming (OOP). T
 ## Example
 
 Here's a simplified example of a C++ class:
+```cpp
+class Student {
+	private:
+	    std::string name;
+	    int age;
 
->	class Student {
->	private:
->	    std::string name;
->	    int age;
-
->	public:
->	    // Constructor
->	    Student(const std::string& n, int a) : name(n), age(a) {}
->	
->	    // Member function to get the student's name
->	    std::string getName() const {
->	        return name;
->	    }
->	
->	    // Member function to get the student's age
->	    int getAge() const {
->	        return age;
->	    }
->	};
+	public:
+	    // Constructor
+	    Student(const std::string& n, int a) : name(n), age(a) {}
+	
+	    // Member function to get the student's name
+	    std::string getName() const {
+	        return name;
+	    }
+	
+	    // Member function to get the student's age
+	    int getAge() const {
+	        return age;
+	    }
+	};
+```

@@ -15,7 +15,7 @@ This repository contains all of the C++ programs pertaining to the **Object-Orie
 1. **[In-class Example Practice](1.%20ICE%20Practice)**
 2. **[Streams](2.%20Streams)** 
     - [File Summation](2.%20Streams/Lab%202.1%20files)
-    - [Character Count](2.%20Streams)
+    - [Character Count](2.%20Streams/Lab%202.2%20files)
     - [CSV File Processing](2.%20Streams/Lab%202.3%20files)
 3. **[Classes I](3.%20Classes%20I%20%2B%20PROGRAM%201)**
     - [Rational Number Calculator](3.%20Classes%20I%20%2B%20PROGRAM%201/Lab%203.12%20files)

@@ -46,7 +46,7 @@ Compile with:
 >  g++ main.cpp -o a.exe
 
 ## Output Sample
-```
+```c
 $ ./a
 Which Date constructor? (Enter 1, 2, or 3)
 1 - Month Number

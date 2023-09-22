@@ -26,7 +26,7 @@ To compile and run the program:
 >	g++ main.cpp -o wind_tunnel_interpolator
 
 ## Sample Output
-```
+```c
 $ ./wind_tunnel_interpolator tunnel1.dat
 Enter a flight-path angle: 10
 Coefficient of lift given the flight-path angle, 10, is 0.792

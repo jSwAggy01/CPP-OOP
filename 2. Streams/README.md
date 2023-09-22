@@ -18,7 +18,7 @@ Streams are a fundamental concept in programming for handling input and output o
 
 ## Usage
 
-- Reading Data: You can use input streams to read data from files or user input, often using functions like `>>` or `getline`.
+- Reading Data: You can use input streams to read data from files or user input, often using functions like `` or `getline`.
 
 - Writing Data: Output streams allow you to write data to files, the console, or other destinations using functions like `<<`.
 
@@ -36,17 +36,19 @@ Streams are a fundamental concept in programming for handling input and output o
 
 In C++:
 
->	#include <iostream>
->	#include <fstream>
->	
->	int main() {
->		// Reading from a file
->	   	std::ifstream inputFile("data.txt");
->	   	int value;
->	   	inputFile >> value;
->	
->	   	// Writing to the console
->	   	std::cout << "Hello, World!" << std::endl;
->	
->	   return 0;
->	}
+```cpp
+#include <iostream
+#include <fstream
+	
+int main() {
+	// Reading from a file
+	std::ifstream inputFile("data.txt");
+	int value;
+	inputFile  value;
+	
+	// Writing to the console
+	std::cout << "Hello, World!" << std::endl;
+	
+	return 0;
+}
+```

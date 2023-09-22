@@ -30,7 +30,7 @@ This program showcases the Distance class, which allows you to work with distanc
 The program provides a practical example of working with measurements and demonstrates how to use a custom class to perform arithmetic operations on distances.
 
 ## Sample Output
-```
+```c
 $ ./a
 d1: 0' 0"
 d2: 2' 5.9"        

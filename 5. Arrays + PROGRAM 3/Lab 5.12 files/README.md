@@ -49,7 +49,7 @@ Running the program with this input file will calculate and display the mean, al
 
 ## Output Sample
 
-```
+```c
 $ ./a one_hundred.dat
 Mean: 5.36566
 

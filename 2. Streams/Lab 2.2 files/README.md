@@ -25,7 +25,7 @@ To compile and run the program:
 >	g++ main.cpp -Wall -Werror -o ./a.exe
 
 ## Sample Output
-```
+```c
 $ ./a
 Enter the name of the input file: alpha.txt
 

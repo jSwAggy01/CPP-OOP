@@ -14,17 +14,24 @@ Recursion is a fundamental concept in computer science and programming. It refer
 
 ## Examples
 ### Factorial Calculation
->	def factorial(n):
->		if n == 0:          # Base case
->			return 1
->		else:               # Recursive case
-        		return n * factorial(n - 1)
+
+```cpp
+def factorial(n):
+if n == 0:          # Base case
+	return 1
+else:               # Recursive case
+	return n * factorial(n - 1)
+```
+	
 ### Fibonacci Sequence
->	def fibonacci(n):
->		if n <= 1:          # Base case
->			return n
->		else:               # Recursive case
->			return fibonacci(n - 1) + fibonacci(n - 2)
+
+```cpp
+def fibonacci(n):
+if n <= 1:          # Base case
+	return n
+else:               # Recursive case
+	return fibonacci(n - 1) + fibonacci(n - 2)
+```
 
 ## Advantages
 - **Elegance**: Recursion often leads to more concise and elegant code, especially for solving problems with recursive structures.

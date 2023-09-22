@@ -34,7 +34,7 @@ Within the `fileSum` function, a `while` loop is used to read integers from the 
 The program prints the sum of the integers read from the file to the standard output.
 
 DAT file:
-```
+```c
 $ ./a
 Enter the name of the input file: lab2part1.dat
 
@@ -42,7 +42,7 @@ Sum: 286
 ```
 
 Text file:
-```
+```c
 $ ./a
 Enter the name of the input file: lab2part1a.txt
 

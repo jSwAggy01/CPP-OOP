@@ -28,7 +28,7 @@ To compile and run the program:
 >	g++ main.cpp -o rational_calculator
 
 ## Sample Output
-```
+```c
 $ ./rational_calculator
 Enter Rational A:
 Which Rational constructor? (Enter 2, 1, or 0)

@@ -41,7 +41,7 @@ Compile with:
 >   g++ main.cpp IntList.cpp -o a.exe
 
 ## Output Sample
-```
+```c
 $ ./a
 Beginning my tests...
 
