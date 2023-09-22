@@ -22,4 +22,24 @@ This program is a tool for interpolating coefficient lift values based on user-p
 ## Usage
 
 To compile and run the program:
+
 >	g++ main.cpp -o wind_tunnel_interpolator
+
+## Sample Output
+```
+$ ./wind_tunnel_interpolator tunnel1.dat
+Enter a flight-path angle: 10
+Coefficient of lift given the flight-path angle, 10, is 0.792
+Do you want to enter another flight-path angle? Yes
+
+Enter a flight-path angle: 20
+Coefficient of lift given the flight-path angle, 20, is 1.099
+Do you want to enter another flight-path angle? Yes
+
+Enter a flight-path angle: 30
+The flight-path angle 30 is not within the bounds of the data set.
+Do you want to enter another flight-path angle? No
+
+Thanks so much for playing my gAmE!
+
+```

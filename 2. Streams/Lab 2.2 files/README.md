@@ -23,4 +23,13 @@ The `main` function takes user input for the name of the input file and the char
 To compile and run the program:
 
 >	g++ main.cpp -Wall -Werror -o ./a.exe
->	./a.exe
+
+## Sample Output
+```
+$ ./a
+Enter the name of the input file: alpha.txt
+
+Enter a character: a
+abcdefghijklmnopqrstuvwxyz
+# of a's: 1
+```

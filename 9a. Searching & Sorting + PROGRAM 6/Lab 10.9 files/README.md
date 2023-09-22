@@ -26,6 +26,35 @@ To use the program, follow these steps:
 
 4. After execution, the program will display either "Copy completed" if the copy was successful or "Copy not completed" if there was an error.
 
+
+## Sample Output
+`outputfile.txt` (before):
+```
+empty!
+```
+
+**CLI output**:
+```
+./a.exe test1.dat outputfile.txt
+Copy completed
+```
+
+`test1.dat`:
+```
+nehesredeiW fuA
+0 2 4
+96
+redruM
+```
+
+`outputfile.txt` (after):
+```
+Murder
+69
+4 2 0
+Auf Wiedersehen
+```
+
 ## Command-Line Arguments
 
 - **input-file**: The path to the input file you want to copy from.

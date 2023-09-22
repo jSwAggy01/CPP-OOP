@@ -41,19 +41,26 @@ The Date class offers the following features:
 
 7. Run your program to create and manipulate dates.
 
-## Example
+## Compilation
+Compile with:
+>  g++ main.cpp -o a.exe
 
->	#include <iostream>
->	#include "Date.h" // Include the Date class header file
+## Output Sample
+```
+$ ./a
+Which Date constructor? (Enter 1, 2, or 3)
+1 - Month Number
+2 - Month Name
+3 - default
+1
 
->	int main() {
->		Date testDate;
->		testDate = getDate();
->		std::cout << "Numeric: ";
->		testDate.printNumeric();
->		std::cout << std::endl;
->		std::cout << "Alpha:   ";
->		testDate.printAlpha();
->		std::cout << std::endl;
->	return 0;
->	}
+month number? 1
+
+day? 9
+
+year? 2001
+
+
+Numeric: 1/9/2001       
+Alpha:   January 9, 2001
+```

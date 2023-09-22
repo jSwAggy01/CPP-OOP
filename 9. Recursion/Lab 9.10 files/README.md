@@ -5,6 +5,7 @@ This program allows the user to enter a sentence, and then it reverses the order
 - Prerequisites
 - Compilation
 - Usage
+- Output Sample
 - Program Overview
 
 ## Prerequisites
@@ -20,6 +21,16 @@ Compile the program using the following command:
 
 ## Usage
 After compilation, execute the program by running ./a.exe (or a.exe on Windows). The program will prompt you to enter a sentence, and then it will display the original sentence followed by the reversed sentence in the console.
+
+## Output Sample
+```
+$ ./a
+Enter a sentence:
+Mama Mia!
+
+Mama Mia!
+!aiM amaM
+```
 
 ## Program Overview
 This program demonstrates the use of a recursive function, flipString, to reverse a given string. Key features of the program include:

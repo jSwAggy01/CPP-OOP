@@ -24,4 +24,40 @@ The `Rational` class is defined with the following features:
 ## Usage
 
 To compile and run the program:
+
 >	g++ main.cpp -o rational_calculator
+
+## Sample Output
+```
+$ ./rational_calculator
+Enter Rational A:
+Which Rational constructor? (Enter 2, 1, or 0)
+2 - 2 parameters (numerator & denominator)    
+1 - 1 parameter (numerator)
+0 - 0 parameters (default)
+2
+
+numerator? 1
+
+denominator? 3
+
+
+Enter Rational B:
+Which Rational constructor? (Enter 2, 1, or 0)
+2 - 2 parameters (numerator & denominator)    
+1 - 1 parameter (numerator)
+0 - 0 parameters (default)
+5
+
+
+Enter Operation:
+a - Addition (A + B)      
+s - Subtraction (A - B)   
+m - Multiplication (A * B)
+d - Division (A / B)      
+y - Simplify A
+m
+
+(1 / 3) * (0 / 1) = (0 / 3)
+
+```

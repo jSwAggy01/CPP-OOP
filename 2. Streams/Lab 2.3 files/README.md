@@ -14,7 +14,7 @@ The program takes two command-line arguments:
 
 ### 2. File Input and Output
 
-The program reads integers from the input CSV file and stores them in a vector. It then calculates the average of the numbers and replaces each number in the vector with its difference from the average. Finally, it writes the modified numbers to the output CSV file.
+The program reads integers from the input CSV file and stores them in a vector. It then calculates the average of the numbers and replaces each number in the vector with its difference from the average. Finally, it writes the modified numbers to an output txt file.
 
 ### 3. Error Handling
 
@@ -25,4 +25,14 @@ The program verifies that the input file was opened correctly and outputs an err
 To compile and run the program:
 
 >	g++ main.cpp -o csv_processor
->	./csv_processor data1.csv data2.csv
+
+>	./csv_processor data1.csv outputfile.txt
+
+## Output Sample
+CLI output:
+
+![alt text](lab-2.3-output.jpg)
+
+File output:
+
+![alt text](lab-2.3-file-output.jpg)
