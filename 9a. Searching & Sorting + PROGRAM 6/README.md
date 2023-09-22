@@ -1,6 +1,4 @@
-# Search and Sort Algorithms README
-
-This README provides a brief summary of search and sort algorithms in computer science.
+# Search and Sort Algorithms
 
 ## Table of Contents
 - [Search Algorithms](#search-algorithms)
