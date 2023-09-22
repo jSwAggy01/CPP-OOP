@@ -16,25 +16,25 @@ This repository contains all of the C++ programs pertaining to the **Object-Orie
 2. **[Streams](2.%20Streams)** 
     - [File Summation](2.%20Streams/Lab%202.1%20files)
     - [Character Count](2.%20Streams)
-    - [CSV File Processing](2.%20Streams\Lab%202.3%20files)
+    - [CSV File Processing](2.%20Streams/Lab%202.3%20files)
 3. **[Classes I](3.%20Classes%20I%20%2B%20PROGRAM%201)**
-    - [Rational Number Calculator](3.%20Classes%20I%20%2B%20PROGRAM%201\Lab%203.12%20files)
+    - [Rational Number Calculator](3.%20Classes%20I%20%2B%20PROGRAM%201/Lab%203.12%20files)
 4. **[Classes II](4.%20Classes%20II%20%2B%20PROGRAM%202)**
-    - [Distance Calculator](4.%20Classes%20II%20%2B%20PROGRAM%202\Lab%204.13%20files)
+    - [Distance Calculator](4.%20Classes%20II%20%2B%20PROGRAM%202/Lab%204.13%20files)
 5. **[Arrays](5.%20Arrays%20%2B%20PROGRAM%203)**
-    - [Array Manipulation](5.%20Arrays%20%2B%20PROGRAM%203\Lab%205.12%20files)
+    - [Array Manipulation](5.%20Arrays%20%2B%20PROGRAM%203/Lab%205.12%20files)
 6. **[Pointers](6.%20Pointers%20%2B%20PROGRAM%204)**
-    - [Vector Implementation](6.%20Pointers%20%2B%20PROGRAM%204\Lab%206.8%20files)
+    - [Vector Implementation](6.%20Pointers%20%2B%20PROGRAM%204/Lab%206.8%20files)
 7. **[Linked Lists](7.%20Linked%20Lists%20%2B%20PROGRAM%205)**
-    - [Linked List Implementation](7.%20Linked%20Lists%20%2B%20PROGRAM%205\Lab%207.10%20files)
+    - [Linked List Implementation](7.%20Linked%20Lists%20%2B%20PROGRAM%205/Lab%207.10%20files)
 8. **[Inheritance & Polymorphism](8.%20Inheritance%20%26%20Polymorphism)**
-    - [Fantasy Battle Simulator](8.%20Inheritance%20%26%20Polymorphism\Lab%208.11%20files)
+    - [Fantasy Battle Simulator](8.%20Inheritance%20%26%20Polymorphism/Lab%208.11%20files)
 9. **[Recursion](9.%20Recursion)**
-    - [String Reversal Program](9.%20Recursion\Lab%209.10%20files)
-    - [Minimum Element Finder](9.%20Recursion\Lab%209.11%20files)
-    - [Vector Recursion](9.%20Recursion\Lab%209.12%20files)
+    - [String Reversal Program](9.%20Recursion/Lab%209.10%20files)
+    - [Minimum Element Finder](9.%20Recursion/Lab%209.11%20files)
+    - [Vector Recursion](9.%20Recursion/Lab%209.12%20files)
 10. **[Searching & Sorting](9a.%20Searching%20%26%20Sorting%20%2B%20PROGRAM%206)**
-    - [Recursive File Copying](9a.%20Searching%20%26%20Sorting%20%2B%20PROGRAM%206\Lab%2010.9%20files)
+    - [Recursive File Copying](9a.%20Searching%20%26%20Sorting%20%2B%20PROGRAM%206/Lab%2010.9%20files)
 
 ### PROGRAM 5 Sample:
 
