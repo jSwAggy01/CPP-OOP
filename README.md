@@ -5,7 +5,7 @@ Hi!
 This repository contains all of the C++ programs developed during my undergraduate CS curriculum (Jan - Apr 2021). Each folder contains a README.md briefly describing either the concept, the lab, or the program being displayed.
 
 ## List of PROGRAMS:
-1. [Wind Tunnel Data Interpolator Tool](3. Classes I + PROGRAM 1/PROGRAM 1 files)
+1. [Wind Tunnel Data Interpolator Tool](3._Classes_I_+_PROGRAM_1/PROGRAM_1_files)
 2. Calendar Dates Program
 3. Shopping Cart Program
 4. Vector Implementation and Testing
