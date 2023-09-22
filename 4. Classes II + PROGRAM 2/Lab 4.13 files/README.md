@@ -1,5 +1,5 @@
-# Distance Calculator README
-This C++ program, the "Distance Calculator," demonstrates the usage of the Distance class for performing mathematical operations on distances represented in feet and inches. The program includes various operations such as addition and subtraction of distances.
+# Distance Calculator
+This program sdemonstrates the usage of the Distance class for performing mathematical operations on distances represented in feet and inches. The program includes various operations such as addition and subtraction of distances.
 
 ## Table of Contents
 - Prerequisites

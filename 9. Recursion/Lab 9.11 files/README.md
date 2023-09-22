@@ -1,4 +1,4 @@
-# Minimum Element Finder Program
+# Minimum Element Finder
 This program allows the user to enter an array of integers and then finds and displays the minimum element in the array. The program is split into two files, main.cpp and minFunc.cpp, demonstrating the use of functions and function prototypes.
 
 ## Table of Contents
